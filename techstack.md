@@ -24,7 +24,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Jeff-Bouchard/proxy-toggle](https://github.com/Jeff-Bouchard/proxy-toggle)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|2<br/>Tools used|02/04/24 <br/>Report generated|
+|2<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
